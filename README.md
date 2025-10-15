@@ -6,11 +6,11 @@ This is a fully self-contained Book Recommendation System implemented in a singl
 
 ## Features
 
-- ✅ Content-Based Filtering (TF-IDF on book descriptions)
-- ✅ Collaborative Filtering (user-book rating matrix)
-- ✅ Hybrid Model (weighted average of content + collaborative scores)
-- ✅ Fully offline, custom dataset — no external files needed
-- ✅ Notebook-friendly and beginner-friendly design
+- Content-Based Filtering (TF-IDF on book descriptions)
+- Collaborative Filtering (user-book rating matrix)
+- Hybrid Model (weighted average of content + collaborative scores)
+- Fully offline, custom dataset — no external files needed
+- Notebook-friendly and beginner-friendly design
 
 ---
 
@@ -88,7 +88,7 @@ recommend_hybrid("Atomic Habits", top_n=5, alpha=0.5)
 - Evaluate using precision@k, recall@k, NDCG
 - Create a Streamlit UI to make it interactive
 
-
-
+ 
+Created by - Avneet Singh Oberoi (229310248)
 Feel free to fork, extend, and experiment!
 
